@@ -11,6 +11,7 @@
 - <b>Python</b>
   - [Port Scanner](https://github.com/nebuen/port_scanner/blob/main/README.md)
   - [OOP - Coffee Vending Machine Simulation](https://github.com/nebuen/oop-coffee-machine/blob/main/README.md)
+  - [OOP - Snake Game](https://github.com/nebuen/Snake_game/blob/main/README.md)
 
 <h2>📄 Certications</h2>
 
