@@ -13,7 +13,8 @@
 
   - [OOP - Coffee Vending Machine Simulation](https://github.com/nebuen/oop-coffee-machine/blob/main/README.md)
   - [OOP - Snake Game](https://github.com/nebuen/Snake_game/blob/main/README.md)
-
+  - [OOP - Pong](https://github.com/nebuen/build_pong/blob/main/README.md)
+   
 <h2>📄 Certications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/4500fa65-ac1e-41cc-b3f5-f0128ef897c1?source=linked_in_profile)
@@ -26,7 +27,7 @@
 [linkedin]: https://linkedin.com/in/normanebuen
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
