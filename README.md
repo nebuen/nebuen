@@ -2,9 +2,9 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Secure Network Design</b>
-  - [MSCSCIA project](https://github.com/nebuen/Software-network-design)
+  - [Secure Network Design MSCSCIA project](https://github.com/nebuen/Software-network-design)
   - [Port Scanner - Python](https://github.com/nebuen/port_scanner/blob/main/README.md)
+  - [Tryhackme](https://tryhackme.com/p/enormman)
 
   
 <h2>👨‍💻 Software Developement Projects:</h2>
